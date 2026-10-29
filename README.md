@@ -69,6 +69,24 @@ else:
 #!/usr/bin/env python3
 
 
+#m4 
+
+#ex00
+
+
+
+
+#ex01
+#!/usr/bin/env python3
+def main():
+    age = int(input("Please enter your age: "))
+    print(f"Your current age is {age}.")
+    print(f"In 10 years, you will be {age + 10}.")
+    print(f"In 20 years, you will be {age + 20}.")
+    print(f"In 30 years, you will be {age + 30}.")
+if __name__ == "__main__":
+    main()
+
 
 
 
